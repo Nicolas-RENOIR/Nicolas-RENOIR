@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Nicolas-RENOIR
-- 👀 I’m interested in Cybersecurity, Software development and Computing in general
-- 🌱 I’m currently learning how to secure a cloud solution at Dassault Systèmes
+- 👀 I’m interested in Cybersecurity, Cloud Solutions and Computing in general
+- 🌱 I’m currently responsible for the development, evolution, and maintenance of the load balancing component handling all the 3DEXPERIENCE platform traffic
 - 📫 rnicolas1202@gmail.com | https://www.linkedin.com/in/nicolas-renoir-3b5ba223
