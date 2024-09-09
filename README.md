@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nicolas-RENOIR
+- 👀 I’m interested in Cybersecurity, Software development and Computing in general
+- 🌱 I’m currently learning how to secure a cloud solution at Dassault Systèmes
+- 📫 rnicolas1202@gmail.com | https://www.linkedin.com/in/nicolas-renoir-3b5ba223
