@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicolas-RENOIR, an apprentice cybersecurity engineer at Dassault Systèmes
+- 👋 Hi, I’m @Nicolas-RENOIR, an apprentice cybersecurity engineer
 - 👀 I’m interested in Cybersecurity, Cloud Solutions and Software Development
 - 🌱 I’m currently responsible for the development, evolution, and maintenance of the load balancing component handling all the 3DEXPERIENCE platform traffic
 - 📫 rnicolas1202@gmail.com
