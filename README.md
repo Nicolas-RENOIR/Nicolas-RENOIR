@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Nicolas-RENOIR, an apprentice cybersecurity engineer
-- 👀 I’m interested in Cybersecurity, Cloud Solutions and Software Development
-- 🌱 I’m currently responsible for the development, evolution, and maintenance of the load balancing component handling all the 3DEXPERIENCE platform traffic
+- 👋 Hi, I’m @Nicolas-RENOIR, a cybersecurity engineer
+- 👀 I’m interested in Cybersecurity and I'm now looking for my next challenge in an international environment, where I can apply what I've learned to help build a more secure and resilient future.
 - 📫 rnicolas1202@gmail.com
